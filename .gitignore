@@ -1,0 +1,6 @@
+node_modules/
+dist/
+
+# MCP local config (contains credentials)
+.mcp.json
+.mcp.json.json
